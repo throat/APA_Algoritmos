@@ -1,0 +1,7 @@
+Como utilizar o script:
+
+No terminal, no diretório no qual o script se encontra, digite:
+
+java Sort <NOME DO ARQUIVO>
+
+O arquivo deve ser composto por números inteiros, separados um em cada linha
